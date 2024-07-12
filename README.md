@@ -8,6 +8,6 @@ This project visualizes four sorting algorithms: Bubble Sort, Heap Sort, Merge S
 - Interactive controls to manipulate array size and speed
 
 # Installation
-- Clone the repository: https://git clone https://github.com/meantaraa/sorting-algorithm-visualizer.git
+- Clone the repository: git clone https://github.com/meantaraa/sorting-algorithm-visualizer.git
 - Open the index.html file in your web browser to view the site. 
 
